@@ -3,9 +3,9 @@
 </h1>
 
 
-<p align="center"> 
-     <img src="https://github-profile-trophy.vercel.app/?username=Alawal&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5&no-bg=true&no-frame=true" alt="Alawal" /></a> 
-     </p>
+<div style="text-align: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alawal&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5&no-bg=true&no-frame=true" alt="Alawal" />
+</div>
 
 <div>
     <table>
