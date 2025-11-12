@@ -4,7 +4,7 @@
 
 
 <div style="text-align: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alawal&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5&no-bg=true&no-frame=true" alt="Alawal" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alawal&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&theme=flat" alt="Alawal" />
 </div>
 
 <div>
