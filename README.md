@@ -2,14 +2,6 @@
      Abdu Alawal Ibrahim
 </h1>
 
-
-<p align="center">
-  <a href="https://github.com/Alawal">
-    <img src="https://github-profile-trophy.vercel.app/?username=Alawal&theme=light" alt="Alawal" />
-  </a>
-</p>
-
-
 <div>
     <table>
         <thead>
@@ -28,28 +20,6 @@
         </tbody>
     </table>
 </div>
-
-<div>
-    <table>
-        <thead>
-            <tr border="none!important;">
-                <th style="border: none!important;">Das Lehrerzeugnis (The Teacher Evaluation)</th>
-                <th style="border: none!important;">A self-managing school Discord server</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><a href="https://www.linkedin.com/pulse/way-students-rate-teachers-lessons-using-bootstrap-python-ibrahim-9zwve/"><img src="https://media.arealwant.com/r/chrome_6wnRiK0bZv.png"/></a>
-                    <p>A prototype website with which students can evaluate their teachers' lessons.</p></td>
-                <td><a href="https://www.linkedin.com/pulse/creation-self-managing-school-discord-server-using-python-ibrahim-i0nne/"><img src="https://media.arealwant.com/r/chrome_M859AdBYwl.png"/></a>
-                    <p>In tihs article, I explain how I used Python and MongoDB to develop a Discord Bot that automatically manages a school Discord server and simplifies communication between students.
-
-</p></td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
 
 
 
