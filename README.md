@@ -17,22 +17,6 @@
 
 <div align="center">
 
-| 🚀 **Besuche meine Webseite [alawal.de](https://alawal.de)** |
-| :--- |
-
-
-</div>
-
----
-
-### 💡 Über mich
-
-> *"Meine Leidenschaft für die Programmierung möchte ich mit meinem Kindheitstraum, in der Lehre tätig zu sein, vereinen und meine IT-Kenntnisse in die Entwicklung digitaler Lernplattformen einfließen lassen."*
-
-Software- und EdTech-Entwickler für Webanwendungen, Softwarelösungen, Applikationen für soziale Plattformen sowie PoCs und IT-Lösungen im Bildungsbereich, mit einem Fokus auf Germanistik und Geschichte.
-
----
-
 
 ### 🛠️ Tech-Stack
 
