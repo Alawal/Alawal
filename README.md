@@ -56,29 +56,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
 
----
-
-### 🎓 Vita & Mitgliedschaften
-
-#### **Werdegang**
-- 🎓 **Okt 2024 — Heute:** Student im *Fächerübergreifenden Bachelor* (Geschichte & Germanistik) an der Gottfried Wilhelm Leibniz Universität Hannover.
-- 💻 **Sep 2020 — Heute:** Freier Entwickler (Frontend & EdTech) — Konzeption & Umsetzung skalierbarer Webanwendungen (React/Next.js) sowie PoCs im Bildungsbereich.
-
-#### **Mitgliedschaften**
-- 🏛️ **VHD** — *Verband der Historiker und Historikerinnen Deutschlands*
-- 🎓 **PHVN** — *Philologenverband Niedersachsen e. V.*
-- 💻 **GI** — *Gesellschaft für Informatik e. V.*
-
----
-
-### 📰 Beiträge & Medien
-
-- 📰 **StartingUp Magazin:** [Gründer der Woche: Interview über Entwicklung & Zukunft von LingMorph](https://www.starting-up.de/news/gruenderin-der-woche/gruenderin-der-woche-lingmorph.html)
-- 📝 **ZUM.de Portal:** [Gastbeitrag: Mit LingMorph Satzbau und Grammatik visualisieren](https://www.zum.de/portal/mit-lingmorph-satzbau-und-grammatik-visualisieren/)
-- 🔗 **LehrerLinks.net:** [Portalempfehlung: Visualisierung von Satzbau & Grammatik im paed24-Netzwerk](https://www.lehrerlinks.net/zum-de/mit-lingmorph-satzbau-und-grammatik-visualisieren.html)
-- 💡 **LinkedIn PoC Article:** [The creation of a self-managing school Discord server using Python and MongoDB](https://www.linkedin.com/pulse/creation-self-managing-school-discord-server-using-python-ibrahim-i0nne/)
-
----
 
 <div align="center">
 
